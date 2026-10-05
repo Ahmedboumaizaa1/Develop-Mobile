@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP1</string>
+    <string name="chaine1">Hello World</string>
+    <string name="desc_image">Image du TP</string>
+</resources>
